@@ -6,6 +6,10 @@
 # dotenv files
 .env
 
+# Ignore all project-related files in subfolders
+*.csproj
+*.sln
+
 # User-specific files
 *.rsuser
 *.suo
